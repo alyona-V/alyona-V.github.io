@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://alyona-v.github.io/ru/</link>
+      <atom:link href="https://alyona-v.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alyona-v.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://alyona-v.github.io/ru/</link>
+    </image>
+    
+    <item>
+      <title>Individual Project</title>
+      <link>https://alyona-v.github.io/ru/project/indproject/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/project/indproject/</guid>
+      <description>&lt;p&gt;На прошлой неделе я выполняла лабораторные работы по трём предметам. По Компьютерному практикуму по информационным технологиям эта была лабораторная работа посвященная ШИМ, она выполнялась с помощью Arduino. Понятие ШИМ было разобрано на примере управления яркостью светодиода с помощью двух кнопок. Лабораторная работа по технологиям программирования была посвящена понятию классов в языке С++, на операционных системах был разобран текстовый редактор  emacs и программирование в командном процессоре ОС UNIX, командные файлы. Подробнее о командном процессоре:&lt;/p&gt;
+&lt;p&gt;Командный процессор (командная оболочка, интерпретатор команд shell) — это программа, позволяющая пользователю взаимодействовать с операционной системой
+компьютера.В операционных системахтипа UNIX/Linux наиболее часто используются
+следующие реализации командных оболочек:
+– оболочка Борна (Bourne shell или sh) —стандартная командная оболочка UNIX/Linux,
+содержащая базовый,но при этом полный набор функций;&lt;/p&gt;
+&lt;p&gt;– С-оболочка (или csh)—надстройка на оболочкой Борна,использующая С-подобный
+синтаксис команд с возможностью сохранения истории выполнения команд;&lt;/p&gt;
+&lt;p&gt;– оболочка Корна (или ksh)—напоминаетоболочку С,но операторы управления программой совместимы с операторами оболочки Борна;&lt;/p&gt;
+&lt;p&gt;– BASH —сокращение от Bourne Again Shell (опять оболочка Борна),в основе своей совмещает свойства оболочек С и Корна (разработка компании Free Software Foundation).
+POSIX (Portable Operating System Interface for Computer Environments)—набор стандартов
+описанияинтерфейсоввзаимодействияоперационнойсистемыиприкладныхпрограмм.
+Стандарты POSIX разработаны комитетом IEEE (Institute of Electrical and Electronics
+Engineers) для обеспечения совместимости различных UNIX/Linux-подобных операционных систем и переносимости прикладных программ на уровне исходного кода.
+POSIX-совместимые оболочки разработаны на базе оболочки Корна.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 4</title>
+      <link>https://alyona-v.github.io/ru/post/post4/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/post/post4/</guid>
+      <description>&lt;h2 id=&#34;week-4&#34;&gt;week 4&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе мы выполняли лпбораторные работы №9 и 10. В них мы познакомились с работой в текстовом редакторе emacs,  а также освоили программирование в командном процессоре ОС UNIX. Это была насыщенная неделя, затронувшая также изучение основных комендных файлов. Все знания полученные при выполнении этих работ очень пригодились на этой неделе, подробне читайте об этом в следующем посте.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 5</title>
+      <link>https://alyona-v.github.io/ru/post/post5/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/post/post5/</guid>
+      <description>&lt;h2 id=&#34;неделя-5&#34;&gt;Неделя 5&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе мы выполняли лпбораторные работы №11 и 12. В них мы познакомились с программированием в командном процессоре ОС UNIX, ветвлениями и циклами. Это была насыщенная неделя, затронувшая также изучение расширенного програмирования. Программы написанные нами использоваои bash и С. Спасибо всем моим читатлям. Хорошей недели!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки программирования</title>
+      <link>https://alyona-v.github.io/ru/post/langprog/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/post/langprog/</guid>
+      <description>&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+&lt;p&gt;Язы́к программи́рования — формальный язык, предназначенный для записи компьютерных программ. Язык программирования определяет набор лексических, синтаксических и семантических правил, определяющих внешний вид программы и действия, которые выполнит исполнитель (обычно — ЭВМ) под её управлением.&lt;/p&gt;
+&lt;p&gt;Со времени создания первых программируемых машин человечество придумало более восьми тысяч языков программирования (включая эзотерические, визуальные и игрушечные). Каждый год их число увеличивается. Некоторыми языками умеет пользоваться только небольшое число их собственных разработчиков, другие становятся известны миллионам людей. Профессиональные программисты могут владеть несколькими языками программирования.&lt;/p&gt;
+&lt;p&gt;Языки программирования разделяются на две основные категории языки высокого уровня и языки низкого уровня :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Язык высокого уровня [high-level language] - Язык программирования, средства которого обеспечивают описание задачи в наглядном, легко воспринимаемом виде, удобном для программиста. Он не зависит от внутренних машинных кодов ЭВМ любого типа, поэтому программы, написанные на языках высокого уровня, требуют перевода в машинные коды программами транслятора либо интерпретатора. К языкам высокого уровня относят Фортран , ПЛ/1 , Бейсик , Паскаль , Си , Ада и др.
+
+Язык низкого уровня , [low-level language ] - Язык программирования, предназначенный для определенного типа ЭВМ и отражающий его внутренний машинный код (см. ниже также “машинный язык “, “ машинно-ориентированный язык “ и “ язык ассемблера “).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Различают также следующие виды языков программирования:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Алгоритмический язык [algorithmic language ] - Совокупность символов, соглашений и правил, используемых для однозначного описания алгоритмов и обычно являющаяся часть языка программирования ;
+
+Неалгоритмический язык [nonalgorithmic language] - Язык программирования, тексты которого не содержат указаний на порядок выполнения операций и служат лишь исходным материалом для синтеза алгоритма решения задачи;
+
+Формальный язык [formal language] –
+
+Язык программирования, построенный по правилам некоторого логического исчисления или формальной грамматики [formal grammar ], представляющей собой систему правил построения в заданном алфавите конечных знаковых последовательностей, множество которых образует формальный язык;
+
+См. “алгоритмический язык “;
+
+Исходный язык [source language] - Язык программирования, на котором написана программа, в отличие от машинного языка, на котором программы выполняются компьютером. Исходные языки классифицируются на языки высокого уровня и языки низкого уровня .
+
+Машинный ( абсолютный ) язык , язык ЭВМ [computer (machine) language] - Язык программирования, предназначенный для представления программ в форме, обеспечивающей возможность их выполнения техническими средствами;
+
+Машинозависимый ( машинно-ориентированный ) язык , машинозависимый язык программирования [computer-sensitive (computer-oriented) language] - Язык программирования, учитывающий структуру и характеристики ЭВМ определенного типа или конкретной ЭВМ;
+
+Машиннонезависимый язык [machine-independent language] - Язык программирования, структура и средства которого не связаны ни с какой конкретной ЭВМ и позволяют выполнять составленные на нем программы на любой ЭВМ, снабженной трансляторами (см. ниже) с этого языка;
+
+Символический язык , язык символического кодирования [symbolic language] - Язык программирования, ориентированный на конкретные ЭВМ и основанный на кодировании машинных операций при помощи определенного набора символов;
+
+Гибридный ( комбинированный ) язык [hibrid language] - Язык программирования, использующий также средства другого языка;
+
+  Графический язык [graphic language ] - Язык, предназначенный для написания программ машинной графики и пользования ими.
+
+Базовый язык [base language] –
+
+Машинный язык , общий для семейства ЭВМ;
+
+Язык программирования в СУБД с автономным языком .
+
+Общий язык [common language] - Машинный язык, общий для группы ЭВМ и используемых ими внешних устройств;
+
+Эталонный язык [reference language ] - Язык, являющийся основой для всех его конкретных версий, являющихся вариантами адаптации эталонного языка к определенным условиям применения и назначения;
+
+Язык ассемблера , ассемблер [assembler language ] - Универсальный язык программирования , относящийся к категории языков низкого уровня, структура которого определяется форматами команд, данными машинного языка и архитектурой ЭВМ. Используется программистами в тех случаях, когда невозможно применение языка высокого уровня или требуются эффективные программы в машинных кодах.
+
+Декларативный ( непроцедурный ) язык [declararative (nonprocedural) language] - Язык программирования, который позволяет задавать связи и отношения между объектами и величинами, но не определяет последовательность выполнения действий (например, языки Пролог , QBE);
+
+Императивный ( процедурный ) язык [imperative language] - Язык программирования, который позволяет в явной форме (при помощи задания выполняемых операторов) определять действия и порядок (последовательность) их выполнения;
+
+Язык функционального программирования , функциональный язык [functional language] - Декларативный язык программирования, основанный на понятии функций, которые задают зависимость, но не определяют порядок вычислений.
+
+Специализированный язык [special language] - Язык программирования, ориентированный на решение определенного круга задач;
+
+Язык описания страниц [PDL - Page Description Language] - Специализированный язык, предназначенный для печатающих устройств. Предусматривает возможность использования изображений в формате, независимом от параметров устройства отображения. Наиболее известным языком такого типа является PostScript.
+
+Автономный язык [freestanding language] - Специализированный язык высокого уровня, в замкнутых СУБД (“ СУБД с автономным языком “);
+
+Язык конструирования интерактивных технологий - В СУБД - язык, предназначенный для описания технологических процессов обработки данных с учетом разделения характера операций по их типам, а также обеспечения диалога с администратором системы;
+
+Язык манипулирования данными , ЯМД [DML - Data Manipulation Language] - В СУБД - язык, предназначенный для обращения к базе данных и выполнения поиска, чтения и модификации ее записей;
+
+Язык обработки списков [list language] - Специализированный язык, предназначенный для описания процессов обработки данных, представленных в виде списков объектов ;
+
+Язык описания данных [DDL - Data Description Language ] - Язык, предназначенный для описания “концептуальной схемы” базы данных ;
+
+Язык описания хранения данных [DSDL - Data Storage Description Language ] - Язык, предназначенный для описания физической структуры ( схемы ) базы данных ;
+
+Язык описания страниц [page description language] Система для кодировки документов, которая позволяет точно описать ее внешний вид после подготовки к выводу на печать или на дисплей. Примером использования такого языка служит PDF (Portable Document Format), разработанный Adobe для хранения и представления изображений страниц.
+
+Язык представления знаний [KRL - Knowledge Representation Language] - Декларативный или декларативно-процедурный язык, предназначенный для представления знаний в памяти ЭВМ (например, языки Лисп и Пролог );
+
+Язык публикаций [publication language ] - Язык, используемый для публикации алгоритмов и программ;
+
+Язык спецификаций [specification language] - Декларативный язык для задания спецификаций программ ;
+
+Проблемно-ориентированный язык [problem-oriented language] - Язык программирования, предназначенный для решения определенного класса задач (проблем);
+
+Процедурный ( процедурно-ориентированный ) язык [procedure-orinted language] - Проблемно-ориентированный язык, который облегчает выражение процедуры, как точного алгоритма;
+
+Язык реального времени [real-time language] - Язык, используемый для программирования задач, в которых критическим является время реакции ЭВМ на сигналы, требующие от нее немедленных действий (например, язык Ада );
+
+Язык управления пакетом [batch control language ] - Набор команд , директив , квалификаторов и правил их использования для управления пакетной обработкой данных;
+
+Язык управления заданиями [job-control language ] - Язык, на котором записывается последовательность команд, управляющих выполнением задания. В отличие от обычных языков программирования, в которых объектами описания являются элементы, связанные с решением отдельной задачи, в языках управления заданиями преобразуемыми объектами являются целые программы и выходные потоки данных, обработанных этими программами.
+
+Общесетевой командный язык [CNCL - Common Network - Command language ] - Стандартный в рамках вычислительной сети язык диалогового (интерактивного) поиска данных, предназначенный для унификации работы пользователей с неоднородными базами данных, управляемых различными СУБД ;
+
+Системный язык [system language ] - Язык общения оператора ЭВМ с вычислительной системой, представляющий собой совокупность команд оператора и сообщений системы;
+
+Язык общего назначения , универсальный язык [universal programming language] - Язык программирования, ориентированный на решение задач практически из любой области и объединяющий на единой методической основе наиболее существенные свойства и средства современных машино- и проблемноориентированных языков программирования (например, язык ассемблера , ПЛ/1 и др.);
+
+Язык ориентированный на пользователя [user-oriented language ] - Слабоформализованный язык программирования, близкий к естественному языку ;
+
+Язык меню [menu language ] - Язык диалога пользователя с системой, основанный на использовании меню .
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://alyona-v.github.io/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alyona-v.github.io/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

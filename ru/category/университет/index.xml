@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Университет | Academic</title>
+    <link>https://alyona-v.github.io/ru/category/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/</link>
+      <atom:link href="https://alyona-v.github.io/ru/category/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Университет</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alyona-v.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Университет</title>
+      <link>https://alyona-v.github.io/ru/category/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Неделя 4</title>
+      <link>https://alyona-v.github.io/ru/post/post4/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/post/post4/</guid>
+      <description>&lt;h2 id=&#34;week-4&#34;&gt;week 4&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе мы выполняли лпбораторные работы №9 и 10. В них мы познакомились с работой в текстовом редакторе emacs,  а также освоили программирование в командном процессоре ОС UNIX. Это была насыщенная неделя, затронувшая также изучение основных комендных файлов. Все знания полученные при выполнении этих работ очень пригодились на этой неделе, подробне читайте об этом в следующем посте.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 5</title>
+      <link>https://alyona-v.github.io/ru/post/post5/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/post/post5/</guid>
+      <description>&lt;h2 id=&#34;неделя-5&#34;&gt;Неделя 5&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе мы выполняли лпбораторные работы №11 и 12. В них мы познакомились с программированием в командном процессоре ОС UNIX, ветвлениями и циклами. Это была насыщенная неделя, затронувшая также изучение расширенного програмирования. Программы написанные нами использоваои bash и С. Спасибо всем моим читатлям. Хорошей недели!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

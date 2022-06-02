@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://alyona-v.github.io/ru/project/</link>
+      <atom:link href="https://alyona-v.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alyona-v.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://alyona-v.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Individual Project</title>
+      <link>https://alyona-v.github.io/ru/project/indproject/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/ru/project/indproject/</guid>
+      <description>&lt;p&gt;На прошлой неделе я выполняла лабораторные работы по трём предметам. По Компьютерному практикуму по информационным технологиям эта была лабораторная работа посвященная ШИМ, она выполнялась с помощью Arduino. Понятие ШИМ было разобрано на примере управления яркостью светодиода с помощью двух кнопок. Лабораторная работа по технологиям программирования была посвящена понятию классов в языке С++, на операционных системах был разобран текстовый редактор  emacs и программирование в командном процессоре ОС UNIX, командные файлы. Подробнее о командном процессоре:&lt;/p&gt;
+&lt;p&gt;Командный процессор (командная оболочка, интерпретатор команд shell) — это программа, позволяющая пользователю взаимодействовать с операционной системой
+компьютера.В операционных системахтипа UNIX/Linux наиболее часто используются
+следующие реализации командных оболочек:
+– оболочка Борна (Bourne shell или sh) —стандартная командная оболочка UNIX/Linux,
+содержащая базовый,но при этом полный набор функций;&lt;/p&gt;
+&lt;p&gt;– С-оболочка (или csh)—надстройка на оболочкой Борна,использующая С-подобный
+синтаксис команд с возможностью сохранения истории выполнения команд;&lt;/p&gt;
+&lt;p&gt;– оболочка Корна (или ksh)—напоминаетоболочку С,но операторы управления программой совместимы с операторами оболочки Борна;&lt;/p&gt;
+&lt;p&gt;– BASH —сокращение от Bourne Again Shell (опять оболочка Борна),в основе своей совмещает свойства оболочек С и Корна (разработка компании Free Software Foundation).
+POSIX (Portable Operating System Interface for Computer Environments)—набор стандартов
+описанияинтерфейсоввзаимодействияоперационнойсистемыиприкладныхпрограмм.
+Стандарты POSIX разработаны комитетом IEEE (Institute of Electrical and Electronics
+Engineers) для обеспечения совместимости различных UNIX/Linux-подобных операционных систем и переносимости прикладных программ на уровне исходного кода.
+POSIX-совместимые оболочки разработаны на базе оболочки Корна.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

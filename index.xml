@@ -2,335 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alyona-v.github.io/</link>
+      <atom:link href="https://alyona-v.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alyona-v.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>https://alyona-v.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <title>Individual Project</title>
+      <link>https://alyona-v.github.io/project/indproject/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://alyona-v.github.io/project/indproject/</guid>
+      <description>&lt;p&gt;Last week I did lab work on three subjects. According to the Computer Workshop on Information Technology, this was a PWM lab, it was performed using an Arduino. The concept of PWM was analyzed using the example of controlling the brightness of an LED using two buttons. Laboratory work on programming technologies was devoted to the concept of classes in the C ++ language, on operating systems the emacs text editor and programming in the UNIX OS command processor, batch files were analyzed. More about the command processor:&lt;/p&gt;
+&lt;p&gt;A command processor (command shell, shell command interpreter) is a program that allows the user to interact with the operating system.
+computer. In operating systems such as UNIX / Linux, the most commonly used
+the following shell implementations:
+Bourne shell (sh) is a standard UNIX/Linux command shell,
+containing a basic, but at the same time a complete set of functions;&lt;/p&gt;
+&lt;p&gt;– C-shell (or csh)—a Bourne shell add-on that uses a C-like
+command syntax with the ability to save the history of command execution;&lt;/p&gt;
+&lt;p&gt;– the Korn shell (or ksh)—resembles the C shell, but the program control statements are compatible with those of the Bourne shell;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;BASH - short for Bourne Again Shell (Bourne shell again), basically combines the properties of C and Korn shells (developed by the Free Software Foundation).
+POSIX (Portable Operating System Interface for Computer Environments)—a set of standards
+descriptions of interfaces for interaction between the operating system and application programs.
+The POSIX standards were developed by the IEEE (Institute of Electrical and Electronics
+Engineers) to ensure compatibility between different UNIX/Linux-like operating systems and portability of application programs at the source code level.
+POSIX-compliant shells are based on the Korn shell.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Individual Project</title>
-      <link>https://example.com/project/indproject/</link>
+      <title>Programming languages</title>
+      <link>https://alyona-v.github.io/post/langprog/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/indproject/</guid>
-      <description>&lt;p&gt;На прошлой неделе я выполняла лабораторные работы по трём предметам. По Компьютерному практикуму по информационным технологиям эта была лабораторная работа посвященная ШИМ, она выполнялась с помощью Arduino. Понятие ШИМ было разобрано на примере управления яркостью светодиода с помощью двух кнопок. Лабораторная работа по технологиям программирования была посвящена понятию классов в языке С++, на операционных системах был разобран текстовый редактор  emacs и программирование в командном процессоре ОС UNIX, командные файлы. Подробнее о командном процессоре:&lt;/p&gt;
-&lt;p&gt;Командный процессор (командная оболочка, интерпретатор команд shell) — это программа, позволяющая пользователю взаимодействовать с операционной системой
-компьютера.В операционных системахтипа UNIX/Linux наиболее часто используются
-следующие реализации командных оболочек:
-– оболочка Борна (Bourne shell или sh) —стандартная командная оболочка UNIX/Linux,
-содержащая базовый,но при этом полный набор функций;&lt;/p&gt;
-&lt;p&gt;– С-оболочка (или csh)—надстройка на оболочкой Борна,использующая С-подобный
-синтаксис команд с возможностью сохранения истории выполнения команд;&lt;/p&gt;
-&lt;p&gt;– оболочка Корна (или ksh)—напоминаетоболочку С,но операторы управления программой совместимы с операторами оболочки Борна;&lt;/p&gt;
-&lt;p&gt;– BASH —сокращение от Bourne Again Shell (опять оболочка Борна),в основе своей совмещает свойства оболочек С и Корна (разработка компании Free Software Foundation).
-POSIX (Portable Operating System Interface for Computer Environments)—набор стандартов
-описанияинтерфейсоввзаимодействияоперационнойсистемыиприкладныхпрограмм.
-Стандарты POSIX разработаны комитетом IEEE (Institute of Electrical and Electronics
-Engineers) для обеспечения совместимости различных UNIX/Linux-подобных операционных систем и переносимости прикладных программ на уровне исходного кода.
-POSIX-совместимые оболочки разработаны на базе оболочки Корна.&lt;/p&gt;
+      <guid>https://alyona-v.github.io/post/langprog/</guid>
+      <description>&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+&lt;p&gt;A programming language is a formal language for writing computer programs. A programming language defines a set of lexical, syntactic and semantic rules that determine the appearance of the program and the actions that the performer (usually a computer) will perform under its control.&lt;/p&gt;
+&lt;p&gt;Since the creation of the first programmable machines, mankind has come up with more than eight thousand programming languages ​​(including esoteric, visual and toy ones). Every year their number increases. Some languages ​​are used only by a small number of their own developers, others become known to millions of people. Professional programmers can be proficient in several programming languages.&lt;/p&gt;
+&lt;p&gt;Programming languages ​​fall into two main categories high-level languages ​​and low-level languages:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;High-level language - A programming language whose means provide a description of the problem in a visual, easily perceived form, convenient for the programmer. It does not depend on the internal machine codes of any type of computer, so programs written in high-level languages ​​require translation into machine codes by translator or interpreter programs. High-level languages ​​include Fortran, PL / 1, BASIC, Pascal, C, Ada, etc.
+
+Low-level language, [low-level language] - A programming language designed for a particular type of computer and reflecting its internal machine code (see also “machine language”, “machine-oriented language” and “assembler language” below).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There are also the following types of programming languages:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Algorithmic language [algorithmic language] - A set of symbols, conventions and rules used to unambiguously describe algorithms and is usually part of a programming language;
+
+Nonalgorithmic language [nonalgorithmic language] - A programming language, the texts of which do not contain instructions on the order in which operations are performed and serve only as source material for the synthesis of an algorithm for solving a problem;
+
+formal language
+
+A programming language built according to the rules of some logical calculus or formal grammar [formal grammar], which is a system of rules for constructing finite sign sequences in a given alphabet, the set of which forms a formal language;
+
+See “algorithmic language”;
+
+source language - The programming language in which the program is written, as opposed to the machine language in which programs are executed by the computer. Source languages ​​are classified into high level languages ​​and low level languages.
+
+Machine (absolute) language, computer language [computer (machine) language] - A programming language designed to represent programs in a form that makes it possible to execute them by technical means;
+
+Machine-dependent (machine-oriented) language, machine-dependent programming language [computer-sensitive (computer-oriented) language] - A programming language that takes into account the structure and characteristics of a computer of a certain type or a specific computer;
+
+Machine-independent language - A programming language whose structure and means are not associated with any particular computer and allow the execution of programs compiled on it on any computer equipped with translators (see below) from this language;
+
+Symbolic language, symbolic coding language [symbolic language] - A programming language focused on specific computers and based on encoding machine operations using a specific set of characters;
+
+Hybrid (combined) language [hybrid language] - A programming language that also uses the means of another language;
+
+  Graphic language [graphic language] - A language designed for writing computer graphics programs and using them.
+
+Base language [base language] –
+
+Machine language, common to the family of computers;
+
+Programming language in DBMS with offline language.
+
+Common language [common language] - Machine language common to a group of computers and external devices used by them;
+
+Reference language [reference language] - The language that is the basis for all its specific versions, which are options for adapting the reference language to certain conditions of use and purpose;
+
+Assembly language, assembler [assembler language] - Universal programming language, belonging to the category of low-level languages, the structure of which is determined by command formats, machine language data and computer architecture. It is used by programmers in cases where it is impossible to use a high-level language or efficient programs in machine codes are required.
+
+Declarative (nonprocedural) language [declararative (nonprocedural) language] - A programming language that allows you to set connections and relationships between objects and quantities, but does not determine the sequence of actions (for example, Prolog languages, QBE);
+
+Imperative (procedural) language [imperative language] -
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A programming language that allows you to explicitly (by specifying executable statements) determine actions and the order (sequence) of their execution;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Functional programming language, functional language [functional language] - A declarative programming language based on the concept of functions that define a dependency but do not determine the order of evaluation.
+
+Specialized language [special language] - A programming language focused on solving a certain range of problems;
+
+Page Description Language [PDL - Page Description Language] - A specialized language designed for printing devices. Provides the ability to use images in a format that is independent of the settings of the display device. The best known language of this type is PostScript.
+
+Freestanding language [freestanding language] - A specialized high-level language, in closed DBMSs (“DBMS with a freestanding language”);
+
+Interactive technologies design language - In DBMS - a language designed to describe the technological processes of data processing, taking into account the separation of the nature of operations by their types, as well as providing a dialogue with the system administrator;
+
+Data Manipulation Language, YMD [DML - Data Manipulation Language] - In DBMS - a language designed to access a database and perform searches, reading and modifying its records;
+
+List processing language [list language] - A specialized language designed to describe data processing processes represented as lists of objects;
+
+Data description language [DDL - Data Description Language] - A language designed to describe the “conceptual schema” of a database;
+
+Data storage description language [DSDL - Data Storage Description Language] - A language designed to describe the physical structure (schema) of a database;
+
+Page description language [page description language] A system for encoding documents that accurately describes their appearance after preparation for printing or display. An example of such a language is PDF (Portable Document Format), developed by Adobe for storing and presenting page images.
+
+Knowledge Representation Language [KRL - Knowledge Representation Language] - Declarative or declarative-procedural language designed to represent knowledge in computer memory (for example, Lisp and Prolog languages);
+
+Publication language [publication language] - The language used to publish algorithms and programs;
+
+Specification language [specification language] - Declarative language for specifying program specifications;
+
+Problem-oriented language [problem-oriented language] - A programming language designed to solve a certain class of tasks (problems);
+
+procedural (procedure-oriented) language [procedure-orinted language] - A problem-oriented language that facilitates the expression of a procedure as an exact algorithm;
+
+Real-time language [real-time language] - A language used for programming tasks in which the reaction time of the computer to signals requiring immediate action is critical (for example, the Ada language);
+
+Package control language [batch control language] - A set of commands, directives, qualifiers and rules for their use to control batch data processing;
+
+Job control language [job-control language] - The language in which the sequence of commands that control the execution of a job is written. Unlike conventional programming languages, in which the objects of description are elements associated with the solution of a particular task, in job control languages, the objects to be converted are entire programs and output data streams processed by these programs.
+
+Network-wide command language [CNCL - Common Network - Command language] - A standard language for interactive (interactive) data retrieval within a computer network, designed to unify the work of users with heterogeneous databases controlled by different DBMS;
+
+System language [system language] - The language of communication between the computer operator and the computer system, which is a set of operator commands and system messages;
+
+General purpose language, universal language [universal programming language] - A programming language focused on solving problems from almost any area and combining on a single methodological basis the most essential properties and tools of modern machine- and problem-oriented programming languages ​​(for example, assembly language, PL / 1 and etc.);
+
+User-oriented language [user-oriented language] - A loosely formalized programming language close to natural language;
+
+Menu language [menu language] - The language of the user&#39;s dialogue with the system, based on the use of the menu.
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
     <item>
       <title>Week 4</title>
-      <link>https://example.com/post/post4/</link>
+      <link>https://alyona-v.github.io/post/post4/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post4/</guid>
+      <guid>https://alyona-v.github.io/post/post4/</guid>
       <description>&lt;h2 id=&#34;week-4&#34;&gt;week 4&lt;/h2&gt;
-&lt;p&gt;На прошлой неделе мы выполняли лпбораторные работы №9 и 10. В них мы познакомились с работой в текстовом редакторе emacs,  а также освоили программирование в командном процессоре ОС UNIX. Это была насыщенная неделя, затронувшая также изучение основных комендных файлов. Все знания полученные при выполнении этих работ очень пригодились на этой неделе, подробне читайте об этом в следующем посте.&lt;/p&gt;
+&lt;p&gt;Last week we did labs #9 and 10. In them we got acquainted with the work in the emacs text editor, and also mastered programming in the UNIX OS shell. It&amp;rsquo;s been a busy week, including learning about the basic command files. All the knowledge gained during the performance of these works was very useful this week, read more about it in the next post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки программирования</title>
-      <link>https://example.com/post/langprog/</link>
+      <title>Week 5</title>
+      <link>https://alyona-v.github.io/post/post5/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/langprog/</guid>
-      <description>&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
-&lt;p&gt;Язы́к программи́рования — формальный язык, предназначенный для записи компьютерных программ. Язык программирования определяет набор лексических, синтаксических и семантических правил, определяющих внешний вид программы и действия, которые выполнит исполнитель (обычно — ЭВМ) под её управлением.&lt;/p&gt;
-&lt;p&gt;Со времени создания первых программируемых машин человечество придумало более восьми тысяч языков программирования (включая эзотерические, визуальные и игрушечные). Каждый год их число увеличивается. Некоторыми языками умеет пользоваться только небольшое число их собственных разработчиков, другие становятся известны миллионам людей. Профессиональные программисты могут владеть несколькими языками программирования.&lt;/p&gt;
-&lt;p&gt;Языки программирования разделяются на две основные категории языки высокого уровня и языки низкого уровня :&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Язык высокого уровня [high-level language] - Язык программирования, средства которого обеспечивают описание задачи в наглядном, легко воспринимаемом виде, удобном для программиста. Он не зависит от внутренних машинных кодов ЭВМ любого типа, поэтому программы, написанные на языках высокого уровня, требуют перевода в машинные коды программами транслятора либо интерпретатора. К языкам высокого уровня относят Фортран , ПЛ/1 , Бейсик , Паскаль , Си , Ада и др.
-
-Язык низкого уровня , [low-level language ] - Язык программирования, предназначенный для определенного типа ЭВМ и отражающий его внутренний машинный код (см. ниже также “машинный язык “, “ машинно-ориентированный язык “ и “ язык ассемблера “).
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Различают также следующие виды языков программирования:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Алгоритмический язык [algorithmic language ] - Совокупность символов, соглашений и правил, используемых для однозначного описания алгоритмов и обычно являющаяся часть языка программирования ;
-
-Неалгоритмический язык [nonalgorithmic language] - Язык программирования, тексты которого не содержат указаний на порядок выполнения операций и служат лишь исходным материалом для синтеза алгоритма решения задачи;
-
-Формальный язык [formal language] –
-
-Язык программирования, построенный по правилам некоторого логического исчисления или формальной грамматики [formal grammar ], представляющей собой систему правил построения в заданном алфавите конечных знаковых последовательностей, множество которых образует формальный язык;
-
-См. “алгоритмический язык “;
-
-Исходный язык [source language] - Язык программирования, на котором написана программа, в отличие от машинного языка, на котором программы выполняются компьютером. Исходные языки классифицируются на языки высокого уровня и языки низкого уровня .
-
-Машинный ( абсолютный ) язык , язык ЭВМ [computer (machine) language] - Язык программирования, предназначенный для представления программ в форме, обеспечивающей возможность их выполнения техническими средствами;
-
-Машинозависимый ( машинно-ориентированный ) язык , машинозависимый язык программирования [computer-sensitive (computer-oriented) language] - Язык программирования, учитывающий структуру и характеристики ЭВМ определенного типа или конкретной ЭВМ;
-
-Машиннонезависимый язык [machine-independent language] - Язык программирования, структура и средства которого не связаны ни с какой конкретной ЭВМ и позволяют выполнять составленные на нем программы на любой ЭВМ, снабженной трансляторами (см. ниже) с этого языка;
-
-Символический язык , язык символического кодирования [symbolic language] - Язык программирования, ориентированный на конкретные ЭВМ и основанный на кодировании машинных операций при помощи определенного набора символов;
-
-Гибридный ( комбинированный ) язык [hibrid language] - Язык программирования, использующий также средства другого языка;
-
-  Графический язык [graphic language ] - Язык, предназначенный для написания программ машинной графики и пользования ими.
-
-Базовый язык [base language] –
-
-Машинный язык , общий для семейства ЭВМ;
-
-Язык программирования в СУБД с автономным языком .
-
-Общий язык [common language] - Машинный язык, общий для группы ЭВМ и используемых ими внешних устройств;
-
-Эталонный язык [reference language ] - Язык, являющийся основой для всех его конкретных версий, являющихся вариантами адаптации эталонного языка к определенным условиям применения и назначения;
-
-Язык ассемблера , ассемблер [assembler language ] - Универсальный язык программирования , относящийся к категории языков низкого уровня, структура которого определяется форматами команд, данными машинного языка и архитектурой ЭВМ. Используется программистами в тех случаях, когда невозможно применение языка высокого уровня или требуются эффективные программы в машинных кодах.
-
-Декларативный ( непроцедурный ) язык [declararative (nonprocedural) language] - Язык программирования, который позволяет задавать связи и отношения между объектами и величинами, но не определяет последовательность выполнения действий (например, языки Пролог , QBE);
-
-Императивный ( процедурный ) язык [imperative language] - Язык программирования, который позволяет в явной форме (при помощи задания выполняемых операторов) определять действия и порядок (последовательность) их выполнения;
-
-Язык функционального программирования , функциональный язык [functional language] - Декларативный язык программирования, основанный на понятии функций, которые задают зависимость, но не определяют порядок вычислений.
-
-Специализированный язык [special language] - Язык программирования, ориентированный на решение определенного круга задач;
-
-Язык описания страниц [PDL - Page Description Language] - Специализированный язык, предназначенный для печатающих устройств. Предусматривает возможность использования изображений в формате, независимом от параметров устройства отображения. Наиболее известным языком такого типа является PostScript.
-
-Автономный язык [freestanding language] - Специализированный язык высокого уровня, в замкнутых СУБД (“ СУБД с автономным языком “);
-
-Язык конструирования интерактивных технологий - В СУБД - язык, предназначенный для описания технологических процессов обработки данных с учетом разделения характера операций по их типам, а также обеспечения диалога с администратором системы;
-
-Язык манипулирования данными , ЯМД [DML - Data Manipulation Language] - В СУБД - язык, предназначенный для обращения к базе данных и выполнения поиска, чтения и модификации ее записей;
-
-Язык обработки списков [list language] - Специализированный язык, предназначенный для описания процессов обработки данных, представленных в виде списков объектов ;
-
-Язык описания данных [DDL - Data Description Language ] - Язык, предназначенный для описания “концептуальной схемы” базы данных ;
-
-Язык описания хранения данных [DSDL - Data Storage Description Language ] - Язык, предназначенный для описания физической структуры ( схемы ) базы данных ;
-
-Язык описания страниц [page description language] Система для кодировки документов, которая позволяет точно описать ее внешний вид после подготовки к выводу на печать или на дисплей. Примером использования такого языка служит PDF (Portable Document Format), разработанный Adobe для хранения и представления изображений страниц.
-
-Язык представления знаний [KRL - Knowledge Representation Language] - Декларативный или декларативно-процедурный язык, предназначенный для представления знаний в памяти ЭВМ (например, языки Лисп и Пролог );
-
-Язык публикаций [publication language ] - Язык, используемый для публикации алгоритмов и программ;
-
-Язык спецификаций [specification language] - Декларативный язык для задания спецификаций программ ;
-
-Проблемно-ориентированный язык [problem-oriented language] - Язык программирования, предназначенный для решения определенного класса задач (проблем);
-
-Процедурный ( процедурно-ориентированный ) язык [procedure-orinted language] - Проблемно-ориентированный язык, который облегчает выражение процедуры, как точного алгоритма;
-
-Язык реального времени [real-time language] - Язык, используемый для программирования задач, в которых критическим является время реакции ЭВМ на сигналы, требующие от нее немедленных действий (например, язык Ада );
-
-Язык управления пакетом [batch control language ] - Набор команд , директив , квалификаторов и правил их использования для управления пакетной обработкой данных;
-
-Язык управления заданиями [job-control language ] - Язык, на котором записывается последовательность команд, управляющих выполнением задания. В отличие от обычных языков программирования, в которых объектами описания являются элементы, связанные с решением отдельной задачи, в языках управления заданиями преобразуемыми объектами являются целые программы и выходные потоки данных, обработанных этими программами.
-
-Общесетевой командный язык [CNCL - Common Network - Command language ] - Стандартный в рамках вычислительной сети язык диалогового (интерактивного) поиска данных, предназначенный для унификации работы пользователей с неоднородными базами данных, управляемых различными СУБД ;
-
-Системный язык [system language ] - Язык общения оператора ЭВМ с вычислительной системой, представляющий собой совокупность команд оператора и сообщений системы;
-
-Язык общего назначения , универсальный язык [universal programming language] - Язык программирования, ориентированный на решение задач практически из любой области и объединяющий на единой методической основе наиболее существенные свойства и средства современных машино- и проблемноориентированных языков программирования (например, язык ассемблера , ПЛ/1 и др.);
-
-Язык ориентированный на пользователя [user-oriented language ] - Слабоформализованный язык программирования, близкий к естественному языку ;
-
-Язык меню [menu language ] - Язык диалога пользователя с системой, основанный на использовании меню .
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/1post/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/1post/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <guid>https://alyona-v.github.io/post/post5/</guid>
+      <description>&lt;h2 id=&#34;week-5&#34;&gt;week 5&lt;/h2&gt;
+&lt;p&gt;Last week we did labs 11 and 12. In them we got acquainted with programming in the UNIX OS shell, branches and loops. It&amp;rsquo;s been a busy week that also involved learning advanced programming. Programs written by us using bash and C. Thanks to all my readers. Have a nice week!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://alyona-v.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://alyona-v.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -452,23 +287,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://alyona-v.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://alyona-v.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -485,9 +307,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://alyona-v.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://alyona-v.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
