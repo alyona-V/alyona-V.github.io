@@ -34,16 +34,6 @@
       href="https://alyona-v.github.io/ru/categories/"
     /></url>
   <url>
-    <loc>https://alyona-v.github.io/ru/project/indproject/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://alyona-v.github.io/project/indproject/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://alyona-v.github.io/ru/project/indproject/"
-    /></url>
-  <url>
     <loc>https://alyona-v.github.io/ru/post/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -85,6 +75,16 @@
     /></url>
   <url>
     <loc>https://alyona-v.github.io/ru/category/%D0%B4%D0%B5%D0%BC%D0%BE/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alyona-v.github.io/ru/project/indproject/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alyona-v.github.io/project/indproject/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://alyona-v.github.io/ru/project/indproject/"
+    /></url>
   <url>
     <loc>https://alyona-v.github.io/ru/post/post4/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
